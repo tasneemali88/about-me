@@ -1,0 +1,54 @@
+.list-group-item{
+  display:flex;
+  flex-direction:row;
+  justify-content: center;
+}
+.img1{
+  height: 300px;
+  width: 390px;
+  margin-right: 330px;
+  padding: 30px;
+}
+.img2{
+  height: 350px;
+  width: 350px;
+  margin-right: 270px;
+  padding: 30px;
+}
+.img3{
+  height: 350px;
+  width: 350px;
+  margin-right: 170px;
+  padding: 30px;
+}
+.img4{
+  height: 300px;
+  width: 390px;
+  margin-right: 100px;
+  padding: 30px;
+}
+.img5{
+  height: 200px;
+  width: 200px;
+  padding: 50px;
+  margin-left:30px;
+  margin-right:460px;
+}
+.img6{
+  height: 300px;
+  width: 300px;
+  padding: 50px;
+  margin-right: 300px;
+  margin-left: 10px;
+}
+.img7{
+  height: 300px;
+  width: 330px;
+  padding:50px;
+  margin-right:100px;
+  margin-left: 200px;
+}
+.h1{
+  padding-top: 100px;
+  text-align:left;
+}
